@@ -1,0 +1,17 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+data/brain_tumor_dataset/
+
+models/*.keras
+models/*.h5
+
+outputs/*
+!outputs/.gitkeep
+
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
